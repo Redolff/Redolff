@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Federico Redolfo</h1>
 <h3 align="center">Full Stack Developer | React & Node Expert </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/federico-nahuel-redolfo/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin Federico Redolfo" height="30" width="40" /> </a> 
+  <a href="https://github.com/Redolff" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="@Redolff" height="30" width="40" /> </a>
+  <a href="mailto:redolfofederico@gmail.com" target="blank" title="Enviar correo"> <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" alt="Email" /> </a>
+</p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -35,10 +40,6 @@
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
 </p>
 
