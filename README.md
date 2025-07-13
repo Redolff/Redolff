@@ -72,6 +72,7 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a> 
+   &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
