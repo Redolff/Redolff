@@ -12,7 +12,7 @@
 
 <br><br>
 
-- :computer: I currently have 2 years of experience working with technologies such as `JavaScript, TypeScript, React, Redux, Css, NodeJs, Express`.
+- :computer: I currently have 3 years of experience working with technologies such as `JavaScript, TypeScript, React, Redux, Css, NodeJs, Express`.
 - :desktop_computer: I have participated in the development and implementation of various web projects, including `e-commerce platforms, creation of REST APIs, task management systems, extensions for Google Chrome`.
 - :technologist: I love web developer focused on `creating innovative solutions` for real problems.
 - :nerd_face: Always `learning new things`.
