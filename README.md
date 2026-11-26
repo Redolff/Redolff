@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico Redolfo</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | QA Automation</h3>
+<h3 align="center">AI Engineer | Agentes de IA · LLMs · n8n · Automatización | Full Stack Developer · QA Automation (Cypress) </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/federico-nahuel-redolfo/" target="_blank">
